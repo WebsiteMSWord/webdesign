@@ -19,14 +19,14 @@ img {
 }
 
 /* Tablet styles */
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
     body {
         font-size: 18px;
     }
 }
 
 /* Desktop styles */
-@media screen and (min-width: 1024px) {
+@media screen and (max-width: 1024px) {
     body {
         font-size: 20px;
     }
